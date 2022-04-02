@@ -35,7 +35,8 @@ Clusters 0 : has high annual spending on milk, grocery, Fresh, and detergents_Pa
 Clusters 1 : has high annual spending on Fresh, grocery, froze, and Milk (Hospitality goods)
 
 
-![download](https://user-images.githubusercontent.com/92624520/161388015-d95e7c69-8e61-4878-a2ec-3060140d2503.png)
+![download (2)](https://user-images.githubusercontent.com/92624520/161392529-ae2f97e6-6c29-495d-86eb-a84d8e72009f.png)
+
 
 Findings:
 
@@ -44,7 +45,8 @@ Findings:
 - But i think this clusters is well separated since we only have 2 clusters
 - If you want to gathering well the cluster you can use another method such as T-SNE
 
-![download (1)](https://user-images.githubusercontent.com/92624520/161388062-0bef9332-46c6-4807-9315-876079338887.png)
+![download (3)](https://user-images.githubusercontent.com/92624520/161392537-71f2d307-f8f6-4475-ab8e-3fffd3500387.png)
+
 
 Findings :
 
