@@ -63,3 +63,7 @@ Findings :
 - From the characteristics of the clusters, we can stock products according to the needs of each clusters
 - We can create warehouses with standards that match product characteristics in clusters near the clusters area to reduce operational costs
 - We can do the marketing program based on the characteristics of the clusters
+
+
+## Note
+Please contact me if you guys have any suggest or anything. Im newbie :))) 🤖
