@@ -31,8 +31,8 @@ The goals of the project are :
 
 Findings :
 
-Clusters 0 : has high annual spending on milk, grocery, Fresh, and detergents_Paper (retail goods)
-Clusters 1 : has high annual spending on Fresh, grocery, froze, and Milk (Hospitality goods)
+- Clusters 0 : has high annual spending on milk, grocery, Fresh, and detergents_Paper (retail goods)
+- Clusters 1 : has high annual spending on Fresh, grocery, froze, and Milk (Hospitality goods)
 
 
 ![download (2)](https://user-images.githubusercontent.com/92624520/161392529-ae2f97e6-6c29-495d-86eb-a84d8e72009f.png)
