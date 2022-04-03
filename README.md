@@ -31,8 +31,8 @@ The goals of the project are :
 
 Findings :
 
-- Clusters 0 : has high annual spending on milk, grocery, Fresh, and detergents_Paper (retail goods)
-- Clusters 1 : has high annual spending on Fresh, grocery, froze, and Milk (Hospitality goods)
+- Clusters 0 has high annual spending on milk, grocery, Fresh, and detergents_Paper (retail goods)
+- Clusters 1 has high annual spending on Fresh, grocery, froze, and Milk (Hospitality goods)
 
 
 ![download (2)](https://user-images.githubusercontent.com/92624520/161392529-ae2f97e6-6c29-495d-86eb-a84d8e72009f.png)
@@ -41,30 +41,30 @@ Findings :
 Findings:
 
 - Here is the plot of clusters distribution pattern
-- The clusters is not quiet gathering well
-- But i think this clusters is well separated since we only have 2 clusters
-- If you want to gathering well the cluster you can use another method such as T-SNE
+- The clusters are not quite gathering well
+- But I think the clusters are well separated since we only have 2 clusters
+- When you want to gather well the cluster, you can use another method such as T-SNE
 
 ![download (3)](https://user-images.githubusercontent.com/92624520/161392537-71f2d307-f8f6-4475-ab8e-3fffd3500387.png)
 
 
 Findings :
 
-- Such as the analyze that we have done it, clusters 1 has higher annual spending on Fresh and Frozen then Clusters 0 (Hospitality) and Clusters 1 has higher annual spending on Fresh and Frozen then Clusters 0 (Retail)
-- Clusters 1 has more annual spending then Clusters 0
+- Such as the analysis that we have done it. Clusters 1 has higher annual spending on Fresh and Frozen than Clusters 0 (Hospitality) and Clusters 1 has higher annual spending on Fresh and Frozen than Clusters 0 (Retail)
+- Clusters 1 has more annual spending than Clusters 0
 
 ## Conclusion
 
-- The best clusters of the dataset is 2 Clusters
-- The characteristic of the the best Clusters:
-- Clusters 0 : has high annual spending on milk, grocery, Fresh, and detergents_Paper (retail goods)
-- Clusters 1 has higher annual spending on Fresh and Frozen then Clusters 0
+- The best clusters of the dataset are 2 Clusters
+- The characteristic of the best Clusters:
+  - Clusters 0 has high annual spending on milk, grocery, Fresh, and detergents_Paper (retail goods)
+  - Clusters 1 has higher annual spending on Fresh and Frozen than Clusters 0
 
 ## Recommendation
 
-- From the characteristics of the clusters, we can stock products according to the needs of each clusters
-- We can create warehouses with standards that match product characteristics in clusters near the clusters area to reduce operational costs
-- We can do the marketing program based on the characteristics of the clusters
+- From the characteristics of the clusters, we are able to stock products according to the needs of each cluster
+- We can create warehouses with standards that match with the products based on clusters'caracteristics, near the clusters area to reduce operational costs
+- We are table do the marketing program based on the characteristics of the clusters
 
 
 ## Note
